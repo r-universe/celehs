@@ -1,0 +1,30 @@
+[
+  {
+    "package": "kesernetwork",
+    "oncran": true
+  },
+  {
+    "package": "PheCAP",
+    "oncran": true
+  },
+  {
+    "package": "phecodemap",
+    "oncran": true
+  },
+  {
+    "package": "PheNorm",
+    "oncran": true
+  },
+  {
+    "package": "SAMGEP",
+    "oncran": true
+  },
+  {
+    "package": "SCORNET",
+    "oncran": true
+  },
+  {
+    "package": "sureLDA",
+    "oncran": true
+  }
+]
