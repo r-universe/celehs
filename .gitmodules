@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PheNorm"]
+	path = PheNorm
+	url = https://github.com/celehs/phenorm
+	shallow = true
+	registered = true
+[submodule "SCORNET"]
+	path = SCORNET
+	url = https://github.com/celehs/scornet
+	shallow = true
+	registered = true
+[submodule "sureLDA"]
+	path = sureLDA
+	url = https://github.com/celehs/surelda
+	shallow = true
+	registered = true
+[submodule "SAMGEP"]
+	path = SAMGEP
+	url = https://github.com/celehs/samgep
+	shallow = true
+	registered = true
 [submodule "kesernetwork"]
 	path = kesernetwork
 	url = https://github.com/celehs/kesernetwork
@@ -16,25 +36,5 @@
 [submodule "phecodemap"]
 	path = phecodemap
 	url = https://github.com/celehs/phecodemap
-	shallow = true
-	registered = true
-[submodule "PheNorm"]
-	path = PheNorm
-	url = https://github.com/celehs/phenorm
-	shallow = true
-	registered = true
-[submodule "SAMGEP"]
-	path = SAMGEP
-	url = https://github.com/celehs/samgep
-	shallow = true
-	registered = true
-[submodule "SCORNET"]
-	path = SCORNET
-	url = https://github.com/celehs/scornet
-	shallow = true
-	registered = true
-[submodule "sureLDA"]
-	path = sureLDA
-	url = https://github.com/celehs/surelda
 	shallow = true
 	registered = true
