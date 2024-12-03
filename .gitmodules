@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MAP"]
+	path = MAP
+	url = https://github.com/celehs/map
 [submodule "PheCAP"]
 	path = PheCAP
 	url = https://github.com/celehs/phecap
