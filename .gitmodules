@@ -5,6 +5,9 @@
 [submodule "MAP"]
 	path = MAP
 	url = https://github.com/celehs/map
+[submodule "MUGS"]
+	path = MUGS
+	url = https://github.com/celehs/mugs
 [submodule "PheCAP"]
 	path = PheCAP
 	url = https://github.com/celehs/phecap
